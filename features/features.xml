@@ -1,0 +1,5 @@
+<features name="liveSense-${project.version}-framework-dom4j" xmlns="http://karaf.apache.org/xmlns/features/v1.0.0">
+	<feature name="liveSense-framework-dom4j" version="${project.version}" description="Dom4j Framework">
+		<bundle>mvn:${project.groupId}/${project.artifactId}/${project.version}</bundle>
+	</feature>
+</features>
