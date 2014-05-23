@@ -26,6 +26,13 @@
 		<relativePath>..</relativePath>
 	</parent>
     <version>1.0.4-SNAPSHOT</version>
+    <scm>
+		<connection>scm:git:https://github.com/liveSense/org.liveSense.framework.dom4j.git</connection>
+		<developerConnection>scm:git:https://github.com/liveSense/org.liveSense.framework.dom4j.git</developerConnection>
+		<url>https://github.com/liveSense/org.liveSense.framework.dom4j</url>
+        <tag>HEAD</tag>
+    </scm>
+
     <properties>
 		<dom4j.version>1.6.1</dom4j.version>
 	</properties>
