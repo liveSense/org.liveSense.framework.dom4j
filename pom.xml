@@ -35,6 +35,7 @@
 
     <properties>
 		<dom4j.version>1.6.1</dom4j.version>
+        <maven.javadoc.skip>true</maven.javadoc.skip>
 	</properties>
     <artifactId>org.liveSense.framework.dom4j</artifactId>
 	<packaging>bundle</packaging>
