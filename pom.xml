@@ -25,7 +25,8 @@
 		<version>1.0.4-SNAPSHOT</version>
 		<relativePath>..</relativePath>
 	</parent>
-	<properties>
+    <version>1.0.4-SNAPSHOT</version>
+    <properties>
 		<dom4j.version>1.6.1</dom4j.version>
 	</properties>
     <artifactId>org.liveSense.framework.dom4j</artifactId>
